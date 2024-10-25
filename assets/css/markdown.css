@@ -194,6 +194,10 @@
 }
 
 .markdown s {
+  color: var(--bordground);
+}
+
+/* .markdown s {
   text-decoration: none;
 }
 
@@ -204,7 +208,7 @@
   font-weight: bold;
   font-family: 'Montserrat Alternates', sans-serif;
   background-color: forestgreen;
-}
+} */
 
 @media (min-width: 701px) {
   .markdown p {
