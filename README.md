@@ -1,8 +1,8 @@
 # PasteMd
 
 **PasteBin, but for Markdown files.**
-- the website is live [here](https://pastemd.netlify.app/)
-- this [paste](https://pastemd.netlify.app/pastes/nMaYWgU0Bdoo4d1RFuoy) is a pretty good demo
+- the website is live [here](https://pastemd.vercel.app/)
+- this [paste](https://pastemd.vercel.app/pastes/nMaYWgU0Bdoo4d1RFuoy) is a pretty good demo
 - **tech stack:** Vue, Nuxt, FireBase
 
 I decided to make this website in order to centralize and share my Markdown notes with my friends in an easier way. I was also not satisfied with the design provided by VSCode for previewing Markdown files – I had to write some custom CSS every single time I created a new note.
@@ -31,4 +31,4 @@ At `/mine` you can find a list of all your pastes.
 
 <img src="./github/account.png" alt="account" width="600">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/52142d17-58d8-4b84-8fa2-cc0bbff6aa9b/deploy-status)](https://app.netlify.com/sites/pastemd/deploys)
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/52142d17-58d8-4b84-8fa2-cc0bbff6aa9b/deploy-status)](https://app.netlify.com/sites/pastemd/deploys) -->
