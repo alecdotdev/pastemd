@@ -5,7 +5,7 @@ import { collection, query, where, orderBy, onSnapshot } from '@firebase/firesto
 
 const baseUrl
   = process.env.NODE_ENV === 'production'
-  ? 'https://pastemd.netlify.app'
+  ? 'https://pastemd.vercel.app'
   : 'http://localhost:3000';
 
 export default {
